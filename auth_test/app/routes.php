@@ -12,3 +12,4 @@
 */
 
 Route::get('/', ['uses' => 'HomeController@showWelcome']);
+Route::get('home', []);

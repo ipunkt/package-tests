@@ -122,7 +122,8 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 		
-		'Ipunkt\Auth\AuthServiceProvider'
+		'Ipunkt\Auth\AuthServiceProvider',
+		'Laracasts\Commander\CommanderServiceProvider',
 
 	),
 
